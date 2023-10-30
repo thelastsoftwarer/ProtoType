@@ -1,0 +1,20 @@
+Enter Student Id: 1
+
+Enter Student Name: erkan
+
+Enter Student Surname: bicer
+
+Enter Student Address: Adana
+
+Enter Student Grade: 5
+
+   Employee Records of Oracle Corporation 
+---------------------------------------------
+İD	name	surname	grade	address
+1	  erkan	bicer	   5	  Adana
+
+
+   Employee Records of Oracle Corporation 
+---------------------------------------------
+İD	name	surname	grade	address
+1	  erkan	bicer	   5	  Adana
